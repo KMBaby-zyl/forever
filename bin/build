@@ -1,0 +1,6 @@
+function run() {
+  console.log('start');
+  require('../lib/src/build/index.js');
+}
+
+run();
